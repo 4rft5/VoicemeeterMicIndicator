@@ -45,3 +45,9 @@ pyinstaller --onefile --windowed --add-data "muted.png;." --add-data "unmuted.pn
 <hr>
 
 ![button](https://github.com/user-attachments/assets/abbb95c7-6b71-4ffc-afa0-edf6cb2337a0)
+
+<hr>
+
+**Eventual Idea**:
+
+At some point, I'll go through and rewrite this a little bit to be just a simple taskbar indicator for toggle macros. I feel like having visuals for these things is a very helpful indicator to have. If there's a demand for it, let me know and I'll do it.
