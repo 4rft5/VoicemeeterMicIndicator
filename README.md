@@ -1,5 +1,5 @@
 # VoicemeeterMicIndicator
-### A simple Python script that displays an icon on the system tray, which corresponds with a Voicemeeter input's mute state.
+**A Python script which displays the status of a Voicemeeter input in the system tray.** 
 <hr>
 This script shows the current mute state of a Voicemeeter input on your taskbar using a system tray icon. The state is monitored and updated in real-time by interacting with the Voicemeeter API through the 
 
