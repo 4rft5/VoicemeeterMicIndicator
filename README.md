@@ -52,7 +52,7 @@ def monitor_hotkey():
 
 Install required libraries:
 ```
-pip install voicemeeterlib pystray pillow keyboard
+pip install voicemeeter-api pystray pillow keyboard
 ```
 Ensure Voicemeeter is running.  
 Run `MicIndicator.py`.
